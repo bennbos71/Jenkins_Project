@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-//test comment
+//test comment...
 namespace ContosoUniversity.Models
 {
     public enum Grade
